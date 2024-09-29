@@ -1,5 +1,3 @@
-# README
-
 ## Project Overview
 
 This project demonstrates a simple Dockerized Python application. The application, defined in `hello.py`, prints "Hello, World!" when run. This guide will walk you through building, running, and pushing the Docker image to Docker Hub.
